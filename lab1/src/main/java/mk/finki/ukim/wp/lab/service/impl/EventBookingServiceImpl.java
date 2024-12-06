@@ -1,6 +1,7 @@
-package mk.finki.ukim.wp.lab.service;
+package mk.finki.ukim.wp.lab.service.impl;
 
-import mk.finki.ukim.wp.lab.model.EventBooking;
+import mk.finki.ukim.wp.lab.entity.EventBooking;
+import mk.finki.ukim.wp.lab.service.EventBookingService;
 import org.springframework.stereotype.Service;
 
 @Service

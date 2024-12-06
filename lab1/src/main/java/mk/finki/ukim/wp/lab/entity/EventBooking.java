@@ -1,4 +1,4 @@
-package mk.finki.ukim.wp.lab.model;
+package mk.finki.ukim.wp.lab.entity;
 
 public class EventBooking {
     String eventName;
